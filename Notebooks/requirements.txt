@@ -1,0 +1,17 @@
+# Dependencias para ejecutar los notebooks de Olist (Sprint 1 - EDA y Churn)
+# Versiones con wheels disponibles para Python 3.14
+
+# --- Núcleo de análisis de datos ---
+numpy>=2.3.3
+pandas>=2.3.3
+
+# --- Visualización ---
+matplotlib>=3.10
+seaborn>=0.13.2
+
+# --- Modelado (baseline LogisticRegression / DummyClassifier) ---
+scikit-learn>=1.6
+
+# --- Entorno de notebooks ---
+jupyterlab>=4.3
+ipykernel>=6.29

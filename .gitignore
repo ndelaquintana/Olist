@@ -1,0 +1,23 @@
+# Claude
+.claude/
+
+# Planeación / specs / material de estudio
+Specs/
+Plan_Churn_Sprint1-2*.docx
+Material de estudio/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Notebooks - caché y checkpoints
+.ipynb_checkpoints/
+Notebooks/_cache_azure/
+
+# Office temp / lock files
+~$*
+
+# OS
+Thumbs.db
+.DS_Store

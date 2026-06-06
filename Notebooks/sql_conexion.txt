@@ -1,0 +1,3 @@
+SQL_SERVER=olist-sql-40548.database.windows.net
+SQL_DB=OlistDB
+SQL_ADMIN=olistadmin
