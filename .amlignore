@@ -1,0 +1,18 @@
+# Archivos que NO se suben como código del job de Azure ML
+# (el pipeline lee los datos desde Azure SQL, no necesita los CSV ni binarios)
+.git/
+.claude/
+Data/
+Material de estudio/
+Specs/
+Azure/
+*.docx
+*.pptx
+*.pkl
+~$*
+Notebooks/.venv/
+Notebooks/_cache_azure/
+Notebooks/.claude/
+Notebooks/*.ipynb
+!Notebooks/sprint2_pipeline_sql.ipynb
+**/__pycache__/

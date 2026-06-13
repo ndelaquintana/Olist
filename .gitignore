@@ -21,3 +21,11 @@ Notebooks/_cache_azure/
 # OS
 Thumbs.db
 .DS_Store
+
+# Secretos (NO subir a repo publico)
+Azure/Sql/Contraseña.txt
+Azure/Sql/sql_conexion.txt
+# Temporales
+*.tmp
+_probe_write.txt
+~WRL*
